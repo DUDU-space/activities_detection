@@ -1,0 +1,7 @@
+{
+	"filenames" : [	 "cup_1.txt"
+			,"cup_2.txt"
+			]
+	,"eps":20
+	,"mintime":3
+}
